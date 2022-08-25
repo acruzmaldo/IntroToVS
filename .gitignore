@@ -1,0 +1,5 @@
+.venv/
+#dash signals code to ignore all files below .venv
+#Code in terminal before committing
+    #git config --global user.name "Andres"
+    #git config --global user.name "Andres"
